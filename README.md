@@ -1,10 +1,10 @@
-<h1 align="center">Windows_WSE_10</h1>
-<h3 align="center">A minimal Operating System created with React.</h3>
+<h1 align="center">Windows WSE 10</h1>
+<h3 align="center">A minimal Operating System created my OmarsTech325.</h3>
 
 <img src="https://user-images.githubusercontent.com/20419286/126880139-efdaf35f-ee14-424e-a718-41c7015898af.png" width="100%" />
 
 ## About
-This project provides a minimal Windows 10 experience in browser. It runs completely on client's side. The user is presented with screen to create a new user account on the first visit. User can create multiple accounts, and log into any one of them. Desktop, TaskBar and StartMenu are shown after logging in. Basic apps like Notepad (text editor) and File Explorer are pre-built into the app. Windows 10 design is tried to be replicated for both apps.
+This project provides a minimal Windows 10 experience in browser. It runs completely on client's side. It takes you to create account screen on visits. User can create multiple accounts, and log into any one of them. Desktop, TaskBar and StartMenu are shown after logging in. Basic apps like Notepad (text editor) and File Explorer are pre-built into the app. Windows 10 design is tried to be replicated for both apps.
 
 New documents and folders can be created in File Explorer. Explorer ribbon similar to that in Windows 10 is also provided for Copy/Cut/Paste/Select/Open operations. Furthermore, project is designed in a way to add new apps without affecting the project structure. It's as simple as writing a new app, add it into ```softwares``` folder and edit the ```config/apps.js``` file. Functions like reading/writing filesystem (yeppp, not the real OS filesystem but the browser storage), etc. are automatically passed down to the app.
 
@@ -40,10 +40,7 @@ The windows 10 loading icon has also been inserted from [codepen created by Fern
 - [ReactJS](https://reactjs.org/)
 - [React Redux](https://react-redux.js.org/)
 - [React Router](https://reactrouter.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [React Draggable](https://github.com/react-grid-layout/react-draggable)
-- [Sass](https://sass-lang.com/)
-
+- [React Icons](https:
 ## Demo Video
 https://user-images.githubusercontent.com/20419286/130333497-d30219b2-feb7-44f2-af92-61731db6d98f.mp4
 
